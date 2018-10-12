@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Local Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "express",
+    "truecoder"
+  ],
+  "author": "Truecoder Ltd (truecoder.business@outlook.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
